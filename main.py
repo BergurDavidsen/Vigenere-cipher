@@ -14,9 +14,9 @@ wordArr = []
 
 
 def mailSender():
-    sender_email = "encryption.decryption.app@gmail.com"
+    sender_email = "Mail"
     rec_email = recieverEntry.get()
-    password = "eiqdwexydsjmobux"
+    password = "Password"
 
     newMessage = EmailMessage()
 
